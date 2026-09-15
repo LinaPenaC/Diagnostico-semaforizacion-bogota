@@ -110,7 +110,7 @@ Proyecto académico desarrollado colaborativamente por:
 
 Lina Peña
 Camilo Zapata
-Valery Dominguez
+Valery Ortegón
 
 ## Áreas de trabajo
 
